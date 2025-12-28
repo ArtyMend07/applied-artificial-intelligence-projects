@@ -1,12 +1,10 @@
-# Ignorar arquivos genéricos
 *.pdf
 *.svg
 *.jpg
-
-# Ignorar o conteúdo da pasta de Machine Learning
+*.png
+*.hdf5
+*.csv
+annotation.txt
 4_simpsons_deep_learning/*
-
 !4_simpsons_deep_learning/4_simpsons_deep_learning.py
-
-# Outros itens
 __pycache__/
