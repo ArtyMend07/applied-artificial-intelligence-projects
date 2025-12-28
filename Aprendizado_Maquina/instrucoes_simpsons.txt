@@ -1,0 +1,24 @@
+PROJETO 4 - DEEP LEARNING: SIMPSONS
+Aluno: Artur Mendonça Arruda | Matrícula: 231033737
+
+O dataset de imagens (>1GB) não foi anexado devido ao limite de upload do Teams.
+
+Para executar o projeto:
+
+1. Download:
+   Baixe o dataset "The Simpsons Characters Data" no Kaggle:
+   https://www.kaggle.com/datasets/alexattia/the-simpsons-characters-dataset
+
+2. Configuração da Pasta:
+   - Extraia o arquivo baixado.
+   - Renomeie a pasta principal para "simpsons_dataset".
+   - Certifique-se de que a estrutura fique assim:
+     /pasta_do_projeto
+        |-- 4_simpsons_deep_learning.py
+        |-- simpsons_dataset/
+              |-- homer_simpson/
+              |-- marge_simpson/
+              |-- ... (outras pastas de personagens)
+
+3. Execução:
+   Basta rodar o script: python 4_simpsons_deep_learning.py
