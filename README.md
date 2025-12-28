@@ -1,28 +1,31 @@
-# Applied Artificial Intelligence and Intelligent Systems Showcase
+# Portfólio de Inteligência Artificial Aplicada e Sistemas Inteligentes
 
-This repository contains a comprehensive collection of technical implementations spanning multiple Artificial Intelligence paradigms. The projects focus on the practical application of theoretical concepts in complex simulated environments, prioritizing mathematical rigor, algorithmic efficiency, and robust software design.
+Este repositório contém uma coleção abrangente de implementações técnicas abrangendo múltiplos paradigmas de Inteligência Artificial. Os projetos focam na aplicação prática de conceitos teóricos em ambientes simulados complexos, priorizando o rigor matemático, a eficiência algorítmica e o design de software robusto.
 
-## Academic Integrity Notice
+## Aviso de Integridade Acadêmica
 
-This repository is intended for technical demonstration and professional portfolio purposes only. If you are a student currently enrolled in related courses at the University of Brasília (UnB), be advised that code reuse or plagiarism constitutes a violation of academic integrity policies. These implementations feature unique logic and specific scenarios that are identifiable by plagiarism detection tools.
+Este repositório destina-se exclusivamente à demonstração técnica e ao portfólio profissional. Se você é um estudante atualmente matriculado em disciplinas correlatas na Universidade de Brasília (UnB), esteja ciente de que o reaproveitamento de código ou plágio constitui uma violação das políticas de integridade acadêmica. Estas implementações apresentam lógica única e cenários específicos que são facilmente identificáveis por ferramentas de detecção de plágio.
 
-## Repository Structure
+## Estrutura do Repositório
 
-The project is organized by technical paradigms, with each directory containing detailed implementations and specific documentation:
+O projeto está organizado por paradigmas técnicos, com cada diretório contendo implementações detalhadas e documentação específica:
 
-### 1. Classical AI Algorithms
-Focused on explicit knowledge representation, state-space search, and metaheuristic optimization.
-Key Algorithms: Breadth-First Search (BFS), Minimax with Alpha-Beta Pruning, Cuckoo Search, Genetic Algorithms, and Constraint Satisfaction Problems (CSP).
+### 1. Algoritmos Clássicos de IA
+Focado em representação explícita do conhecimento, busca em espaço de estados e otimização metaheurística.
 
-### 2. Uncertainty in AI
-Focused on state estimation and probabilistic inference within stochastic and partially observable environments.
-Key Algorithms: Bayesian Networks, Hidden Markov Models via Particle Filtering, and Extended Kalman Filters.
+* **Algoritmos Principais:** Busca em Largura (BFS), Minimax com Poda Alpha-Beta, Cuckoo Search, Algoritmos Genéticos e Problemas de Satisfação de Restrições (CSP).
 
-### 3. Machine Learning
-Data-driven approaches covering supervised, unsupervised, and reinforcement learning architectures.
-Key Algorithms: Gradient Boosting, Gaussian Mixture Models, Soft Actor-Critic, and Convolutional Neural Networks (CNN).
+### 2. Tratamento de Incerteza em IA
+Focado em estimativa de estado e inferência probabilística dentro de ambientes estocásticos e parcialmente observáveis.
 
-## Technical Stack
+* **Algoritmos Principais:** Redes Bayesianas, Modelos Markovianos Ocultos via Filtragem de Partículas e Filtros de Kalman Estendidos.
 
-* Language: Python
-* Frameworks and Libraries: PyTorch (Deep Learning and Reinforcement Learning), Scikit-Learn (Traditional Machine Learning), NumPy and Pandas (Data Manipulation), Matplotlib and Seaborn (Technical Visualization).
+### 3. Aprendizado de Máquina
+Abordagens baseadas em dados cobrindo arquiteturas de aprendizado supervisionado, não supervisionado e por reforço.
+
+* **Algoritmos Principais:** Gradient Boosting, Modelos de Mistura Gaussiana (GMM), Soft Actor-Critic (SAC) e Redes Neurais Convolucionais (CNN).
+
+## Stack Técnica
+
+* **Linguagem:** Python.
+* **Frameworks e Bibliotecas:** PyTorch (Deep Learning e Aprendizado por Reforço), Scikit-Learn (Aprendizado de Máquina Tradicional), NumPy e Pandas (Manipulação de Dados), Matplotlib e Seaborn (Visualização Técnica).
